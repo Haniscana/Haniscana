@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Haniscana Alvins.
-- 👀 I’m interested in Machine learning and AI 
+- 👀 I’m interested in Machine learning 
 - 🌱 I’m currently learning ... Python
 - 📫 
 
